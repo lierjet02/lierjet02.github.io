@@ -1,6 +1,6 @@
 ---
-title: New Title
-description: New Description
+title: W&M CTBA
+description: Cam Lierman's personal W&M CTBA page
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
