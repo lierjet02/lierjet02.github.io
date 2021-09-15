@@ -1,8 +1,8 @@
 ---
-title: Course Content
-description: W&M CTBA Course Content
+title: Module 2 Jupyter Assignment
+description: Basic Graphing Assignment
 ---
 
-Here is the course content I use in the W&M CTBA course.
+Here is the M2 Assignment for the W&M CTBA course.
 -
 -
